@@ -1,0 +1,115 @@
+body {
+    background-color: #dff2f7;
+}
+h1 {
+    text-align: center;
+    color: #054557;
+    padding: 40px;
+    font-family: Neucha, Georgia; 
+    font-size: 40px;
+}
+
+img {
+    height: 250px;
+    width: 180px;
+}
+
+#indexhead {
+    background-color: #e7defc;
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Neucha, Georgia;
+}
+
+h3 {
+    font-family: Neucha, Georgia;
+    font-size: 25px;
+}
+
+p {
+    font-family: Georgia;
+}
+
+#intro {
+    text-align: left;
+    width: 60%;
+    position: relative;
+    
+}
+
+#explore {
+    border: 2px #8b07f0 solid;
+    border-radius: 5%;
+    padding: 5px;
+    text-align: center;
+    width: 30%;
+}
+
+#cooptitle {
+    background-color: #ded3d3
+}
+
+.gamedesc {
+    border: 2px #b51812 solid;
+    padding: 10px;
+    margin: 20px;
+    width: 28%;
+    float: left;
+    border-radius: 5px;
+}
+
+#comptitle {
+    background-color: #d1f0ce;
+}
+
+.gametable {
+    border: 2px #afdebc solid;
+    width: 30%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+th {
+    text-align: left;
+    height: 10px;
+    width: 30%;
+}
+
+td {
+    text-align: left;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.flex-container1 {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+#bgrtitle {
+    background-color: #fce4b6;
+}
+
+.bgr {
+    border: 2px #fccc72 solid;
+    padding: 7px;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+.page_end {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    clear: left;
+}
+
